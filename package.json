@@ -1,6 +1,9 @@
 {
-  "name": "component-kit",
+  "name": "@programmergeek/component-kit",
   "author": "Thato Will Joseph",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/programmergeek"
+  },
   "version": "0.0.1",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
